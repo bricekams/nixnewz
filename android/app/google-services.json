@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "467847360067",
+    "project_id": "newsapp-roaxer",
+    "storage_bucket": "newsapp-roaxer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467847360067:android:aa878f63f458a57709eef6",
+        "android_client_info": {
+          "package_name": "com.roaxer.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467847360067-ocm0na2m9j1is4vgk7cpvo6or0qp9157.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.roaxer.newsapp",
+            "certificate_hash": "427730686b68e3f58010f23a9928d13b153f059b"
+          }
+        },
+        {
+          "client_id": "467847360067-lqkui7uij3a2uqfdkm8alr4o4u5r3ik7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZhJ0r1HSgHEiD0u32sF2z0j6lmq7cLvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467847360067-lqkui7uij3a2uqfdkm8alr4o4u5r3ik7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "467847360067-h4r1k63kbkeg59fe1k0q4ptra9ch9jlg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.roaxer.newsapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
