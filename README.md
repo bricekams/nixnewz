@@ -1,4 +1,4 @@
-# NewsApp
+# NixNews
 
 ## Features
 
